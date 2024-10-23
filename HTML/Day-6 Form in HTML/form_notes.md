@@ -29,13 +29,12 @@ checkbox
 month
 week
 image
-button
-
+button             
 2. Name Attribute:- name attribute is used to provide name to the input field.
 
-3. Value Attribute:- Value attribute is used to provide initial value to the input field.
+3. Value Attribute:- Value attribute is used to provide initial value to the input field.            
 
-4. disabled:- It will make the input field as disabled user can not access the input field. 
+4. disabled:- It will make the input field as disabled user can not access the input field.    
 
 5. Readonly:- It will make the input field as readonly user can not access the value but can access the input field.
 

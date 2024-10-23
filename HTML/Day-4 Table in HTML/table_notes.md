@@ -1,4 +1,4 @@
-# Table:-
+ # Table:-
 It is collection of rows and columns.
 Table is grid oragnised in rows and columns much like in spreadsheet.
 To create table in html, we use <table></table> tag.
@@ -11,7 +11,7 @@ To create cells html provide 2 tags.
 
 To provide title or caption to the table we use <caption></caption> Tag.
 caption tag we have to write within <table></table> tag.
-
+ 
 # Cell Spanning:
 
 In html, we have 2 ways to span the cells
